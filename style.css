@@ -1,0 +1,107 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: -10px;
+
+}
+
+.box {
+    height: 575px;
+    width: 315px;
+    background-color: black;
+    border-radius: 40px;
+}
+
+.button {
+    background-color: #505050;
+    font-size: 19px;
+    font-weight: 600;
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    color: white;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
+    transition: 0.2s ease-in-out;
+}
+.special-button {
+    background-color: #FF9500;
+    font-size: 19px;
+    font-weight: 600;
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    color: white;
+    border-radius: 50px;
+    cursor: pointer;
+
+}
+
+
+.equal-button {
+    background-color: #d4d4d2;
+    font-size: 19px;
+    font-weight: 600;
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    color: black;
+    border-radius: 50px;
+    cursor: pointer;
+
+}
+
+.extra-special-button{
+    background-color: #505050;
+    font-size: 19px;
+    font-weight: 600;
+    width: 130px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    color: white;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+
+
+
+Regenerate .row {
+    margin: 8px 0;
+}
+
+
+.row input {
+    background-color: black;
+    color: white;
+    width: 258px;
+    height: 75px;
+    font-size: 28px;
+    font-weight: 800;
+    margin: 0;
+    padding: 67px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.footer h3 {
+    color: white;
+
+    font-size: 16px;
+}
