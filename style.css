@@ -88,11 +88,12 @@ Regenerate .row {
 
 
 .row input {
+    text-align: right;
     background-color: black;
     color: white;
     width: 258px;
     height: 75px;
-    font-size: 28px;
+    font-size: 32px;
     font-weight: 800;
     margin: 0;
     padding: 67px 0px;
